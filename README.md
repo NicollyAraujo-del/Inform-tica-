@@ -11,3 +11,7 @@ https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQC3VNlGXYqgRrhq-AKhnOVmAaqV_ksRSyl00az-MRc
 ## 12/03 - Aula 3 - Criação de gráficos referentes a despesas da prefeitura de São José dos Campos.
 https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQAKz_ciBrNkSbTXYqF6NvjOAREZUTG-KNBqF_e9NFSU2BA?e=7dh73I
 <img width="886" height="206" alt="image" src="https://github.com/user-attachments/assets/2675fee0-8b89-4184-ae69-ffd78ca7c5c4" />
+
+## 13/03 - Aula 4 - Organização de tabela e criação de gráficos referentes aos fornecedores da Prefeitura de São José dos Campos.
+https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQCGT5vpr2aTQq0bK_6w4V4LARo4qNlnYsDKckeYHQgfUR4?e=kHhKJc
+<img width="754" height="320" alt="image" src="https://github.com/user-attachments/assets/d62100e1-a69a-4522-9484-0c4a6bac503b" />
