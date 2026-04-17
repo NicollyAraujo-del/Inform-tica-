@@ -21,3 +21,23 @@ https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQAcrFE4HIRWTopcgs9awsIQAZC0Fpbydw7mdw58awu
 <img width="818" height="249" alt="image" src="https://github.com/user-attachments/assets/6a512514-c2c4-4f5e-b44f-7b9dde1d1247" />
 
 ## 10/04 a 16/04 - Aula 6 - Acessar dados abertos do Estado de São Paulo, baixar um conjunto de dados e elaborar e responder 5 perguntas.
+https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQC1R5W0IbTPRqdtyugHhKiaASrZdp8dmt9GvX5OpfNpzLU?e=2mGm2l
+
+Perrgunta 1
+<img width="893" height="272" alt="image" src="https://github.com/user-attachments/assets/3b7667f0-5f6f-427d-b1a7-e799c3a4e24a" />
+
+Pergunta 2
+<img width="906" height="258" alt="image" src="https://github.com/user-attachments/assets/1e44e03e-abfa-4fc8-8777-0094b2233dea" />
+
+Pergunta 3
+<img width="659" height="114" alt="image" src="https://github.com/user-attachments/assets/f937ae1d-fb8c-4c57-a350-189e28c148af" />
+
+Pergunta 4
+<img width="456" height="106" alt="image" src="https://github.com/user-attachments/assets/3cdce309-a069-4bbd-8096-95dc621f86d4" />
+
+Pergunta 5 
+<img width="901" height="251" alt="image" src="https://github.com/user-attachments/assets/8effe8f6-b1b1-47b3-bdf5-183b06dac11a" />
+
+
+
+
