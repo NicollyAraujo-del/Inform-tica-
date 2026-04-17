@@ -10,3 +10,4 @@ https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQC3VNlGXYqgRrhq-AKhnOVmAaqV_ksRSyl00az-MRc
 
 ## 12/03 - Aula 3 - Criação de gráficos referentes a despesas da prefeitura de São José dos Campos.
 https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQAKz_ciBrNkSbTXYqF6NvjOAREZUTG-KNBqF_e9NFSU2BA?e=7dh73I
+<img width="886" height="206" alt="image" src="https://github.com/user-attachments/assets/2675fee0-8b89-4184-ae69-ffd78ca7c5c4" />
