@@ -1,4 +1,4 @@
-# Inform-tica-
+# Informática
 Atividades realizadas na disciplina de informática no CSPT em logística.
 ## Apresentação em equipe utilizando software de design gráfico.
 Trabalho executado utilizando Canva: com elementos 3D.
