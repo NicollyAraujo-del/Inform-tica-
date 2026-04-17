@@ -38,6 +38,11 @@ Pergunta 4
 Pergunta 5 
 <img width="901" height="251" alt="image" src="https://github.com/user-attachments/assets/8effe8f6-b1b1-47b3-bdf5-183b06dac11a" />
 
+## 16/04 - Certificado de curso Aprenda Mais:  Python Fundamental 1
+[Uploading Python_Fundamental_1-Certificado_digital_4028706.pdf…]()
+
+<img width="844" height="577" alt="image" src="https://github.com/user-attachments/assets/6d61b5c4-5198-4284-99fc-d0019649b0ec" />
+
 
 
 
