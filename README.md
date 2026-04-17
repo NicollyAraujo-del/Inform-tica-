@@ -19,3 +19,5 @@ https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQCGT5vpr2aTQq0bK_6w4V4LARo4qNlnYsDKckeYHQg
 ## 09/04 - Aula 5 - Aquisição e tratamento de dados abertos.
 https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQAcrFE4HIRWTopcgs9awsIQAZC0Fpbydw7mdw58awuT9Us?e=o9tZpx
 <img width="818" height="249" alt="image" src="https://github.com/user-attachments/assets/6a512514-c2c4-4f5e-b44f-7b9dde1d1247" />
+
+## 10/04 a 16/04 - Aula 6 - Acessar dados abertos do Estado de São Paulo, baixar um conjunto de dados e elaborar e responder 5 perguntas.
