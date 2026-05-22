@@ -46,6 +46,6 @@ Pergunta 5
 ## 23/04 Aula 7 - Tratamento de dados aberto do estado de SP no Power Bi
 https://centropaulasouza-my.sharepoint.com/:x:/g/personal/joao_oliveira71_aluno_cps_sp_gov_br/IQBLaHrk10kFTZQIVRptTz1yAVF5N3CPx8ebRn0jKsKdGtE?e=9yOXb0
 
-
+<img width="1126" height="626" alt="image" src="https://github.com/user-attachments/assets/49f42226-e6d1-4176-801b-31b22471b1ea" />
 
 
