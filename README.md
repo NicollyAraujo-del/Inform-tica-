@@ -48,4 +48,5 @@ https://centropaulasouza-my.sharepoint.com/:x:/g/personal/joao_oliveira71_aluno_
 
 <img width="1126" height="626" alt="image" src="https://github.com/user-attachments/assets/49f42226-e6d1-4176-801b-31b22471b1ea" />
 
+## Atividade 2 - Tratamento de dados abertos do estado de SP no Power Bi com 3 tipos de vizualizações sobre emissão de CNH
 
