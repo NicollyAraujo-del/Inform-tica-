@@ -53,6 +53,12 @@ https://centropaulasouza-my.sharepoint.com/:x:/g/personal/joao_oliveira71_aluno_
 
 ## 07/04 Aula - 8 Modelagem de dados , tratamento de dados e fórmulas DAX no Power Bi
 <img width="1307" height="704" alt="image" src="https://github.com/user-attachments/assets/97e64b53-6d7a-40c0-bc64-e131af966a35" />
+## 14/05 Aula 9 - Regressão Linear Icecream.
+https://centropaulasouza-my.sharepoint.com/:x:/r/personal/isabella_leite_aluno_cps_sp_gov_br/Documents/Ice%20Cream%20Sales%20and%20Temperature%201.xlsx?d=w838710ce1e9249fa996325b3d0e08e0a&csf=1&web=1&e=UfcCcC
+<img width="687" height="423" alt="image" src="https://github.com/user-attachments/assets/4590ffeb-146c-4811-a37b-844dc5542cdb" />
+
+## Regressão Linear Python.
+<img width="913" height="546" alt="image" src="https://github.com/user-attachments/assets/6783c13f-b190-4f4d-a788-2c84c7374148" />
 
 ## 15/05 - Aula 10 - Regressão linear simples usando conjunto de dados
 https://centropaulasouza-my.sharepoint.com/:x:/g/personal/joao_oliveira71_aluno_cps_sp_gov_br/IQDiilPmFFBvQq3wU0Q9ECa0AfdSrYVTi8KIsNB8Ia_xqkY?e=oKsJcc
