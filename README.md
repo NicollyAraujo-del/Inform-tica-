@@ -65,3 +65,5 @@ https://centropaulasouza-my.sharepoint.com/:x:/g/personal/joao_oliveira71_aluno_
 <img width="1753" height="685" alt="image" src="https://github.com/user-attachments/assets/f8d651b9-f81c-4107-97b8-1b6db1d84485" />
 
 ## 28/05 - Aula 11 - Prova
+
+## Certificado do curso da escola do trabalhador: 
