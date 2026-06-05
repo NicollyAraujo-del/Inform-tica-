@@ -66,4 +66,7 @@ https://centropaulasouza-my.sharepoint.com/:x:/g/personal/joao_oliveira71_aluno_
 
 ## 28/05 - Aula 11 - Prova
 <img width="970" height="550" alt="image" src="https://github.com/user-attachments/assets/b11033d6-7bca-4b5e-a9b4-549172214ffe" />
-## Certificado do curso da escola do trabalhador: 
+
+## Certificado do curso da escola do trabalhador:  Visualizar dados no Power BI
+[Certificate_785147_101_dl2z1.pdf](https://github.com/user-attachments/files/28654892/Certificate_785147_101_dl2z1.pdf)
+<img width="843" height="594" alt="image" src="https://github.com/user-attachments/assets/73df38ed-8dc7-4437-85c5-5f60062e59d7" />
