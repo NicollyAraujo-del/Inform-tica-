@@ -77,5 +77,6 @@ https://centropaulasouza-my.sharepoint.com/:x:/g/personal/joao_oliveira71_aluno_
 3- Acessar dados abertos de SP e fazer o download de agricultura - agropecuária - cabeças de animais;
 4- Fazer um dashboard com 3 visualizações;
 5- Responda quais os municípios possuem a maior quantidade de rebanho por tipo em 2024?
+# Em 2024, os municípios com maior quantidade de rebanho variaram conforme o tipo analisado. Observou-se que Bastos apresentou a maior quantidade para galináceos. Os demais tipos foram identificados no dashboard conforme os valores apresentados.
 
 
